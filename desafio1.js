@@ -1,3 +1,4 @@
+
 const PEON=1, CABALLO=3, ALFIL=3, TORRE=5, DAMA=9;
 
 let puntoBlancas = 0;
